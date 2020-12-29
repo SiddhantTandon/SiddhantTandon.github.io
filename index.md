@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Controls 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Machine Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
