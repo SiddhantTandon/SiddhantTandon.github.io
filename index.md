@@ -4,7 +4,7 @@
 
 ### Controls
 
-[Project 1 Title](/sample_page)
+[Model Predictive Control](/sample_page)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
