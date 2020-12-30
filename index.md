@@ -2,7 +2,7 @@
 
 ---
 ## Hello!
-<img src="images/Logo2-5_crop.GIF"/>
+<img src="images/Logo2-5_crop.gif"/>
 I hail from India, to know more about me, click [here](/about).
 You can also find my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf).
 
