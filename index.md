@@ -1,15 +1,17 @@
-## Portfolio
+
+## Hello there!
+<img src="images/Logo2-5_crop.gif"/>
+I hail from India, to know more about me, click [here](/ME/about).
+You can also find my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf).
+To learn more about how I came up with my logo, go [here](/ME/logo)
 
 ---
-## Hello!
-<img src="images/Logo2-5_crop.gif"/>
-I hail from India, to know more about me, click [here](/about).
-You can also find my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf).
+## Portfolio
 
 ---
 ### Controls
 
-[Model Predictive Control](/sample_page)
+[Multi Agent Control](/sample_page)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---

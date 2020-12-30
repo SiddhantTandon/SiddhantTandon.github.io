@@ -1,6 +1,6 @@
-## Model Predictive Control
+## Multi Agent Control
 
-**Project description:** Learn how to park the car. This project will serve the basics of PID control elements
+**Project description:** Collision Avoidance, obstacle avoidance, hering, formation control etc. 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
