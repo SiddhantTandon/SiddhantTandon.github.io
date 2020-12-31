@@ -21,6 +21,11 @@ Youtube Video on boids is below:
 </figure>
 <!-- blank line -->
 
+google drive video:
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1rSSOwhxNq-5xbnzpmYKl24Pljor3cHg3/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
