@@ -14,18 +14,6 @@ To learn more about how I came up with my logo, go [here](/ME/logo).
 
 [Multi Agent Control](/sample_page)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-Youtube Video on boids is below:
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/QbUPfMXXQIY" frameborder="0" allowfullscreen="true" allow="encrypted-media"> </iframe>
-</figure>
-<!-- blank line -->
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/q1yDDiPBfw4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
