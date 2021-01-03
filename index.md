@@ -16,7 +16,7 @@ To learn more about how I came up with my logo, go [here](/ME/logo).
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title]
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
@@ -39,5 +39,5 @@ To learn more about how I came up with my logo, go [here](/ME/logo).
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
