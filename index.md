@@ -9,6 +9,7 @@ Quick links:
   - [Projects](#projects)
   - [Leadership](#leadership)
   - [Volunteer](#volunteer)
+
 <br><br>
 To learn more about how I came up with my logo, go [here](logo).
 
@@ -18,7 +19,7 @@ To learn more about how I came up with my logo, go [here](logo).
 ---
 ### Controls
 
-[Multi Agent Control](/aerosp_740_panagou)
+[Multi Agent Control](aerosp_740_panagou)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
@@ -39,7 +40,7 @@ Udacity Courses
 
 ### Others
 
-- [Project 1 Title](http://example.com/)
+- [SpaceX One Million People Case Study](https://engineering.purdue.edu/AAECourses/aae450/2017/spring)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -53,7 +54,7 @@ Udacity Courses
 ## Volunteer
 
 ---
-
+## Courses
 
 
 
