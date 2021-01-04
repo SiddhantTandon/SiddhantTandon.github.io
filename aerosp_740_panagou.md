@@ -1,6 +1,7 @@
 # Multi-agent Control
 
-#### AEROSP 740 course by Dr. Dimitra Panagou, Winter 2020, University of Michigan
+
+**Project Description:** AEROSP 740 course by Dr. Dimitra Panagou, Winter 2020, University of Michigan.
 
 ## Project 1: Graph Networks and Formation
 

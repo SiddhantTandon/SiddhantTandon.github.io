@@ -12,20 +12,26 @@ To learn more about how I came up with my logo, go [here](logo).
 ---
 ### Controls
 
-[Multi Agent Control](/sample_page)
+[Multi Agent Control](/aerosp_740_panagou)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 2 Title]
+[Specialized Terrestrial Rotorcraft Explorer](spectre)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 3 Title](http://example.com/)
+Udacity Courses
+  - [Machine Learning Engineer Nanodegree]()[Supervised Learning, Unsupervised Learning, Deep Learning]
+  - [Flying Car and Autonomous Flight Engineer Nanodegree]()[Flight Controls, Kalman Filters, A* search]
+  - [Deep Reinforcement Learning Nanodegree]()[DDPG, Actor-Critic, PPO]
+  - [Sensor Fusion Engineer Nanodegree (current)]()[LiDAR, Camera, Point Cloud Data, C++]
+  - [Robotics Software Engineer Nanodegree (current)]()[ROS, C++, Path Planning]
+  - [Self Driving Car Engineer Nanodegree (current)]()[Computer Vision, C++, machine learning]
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
-### Machine Learning
+### Others
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
