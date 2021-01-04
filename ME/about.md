@@ -6,7 +6,7 @@ My home is in New Delhi, the capital city of India. Since high school, I have ta
 
 <img src="images/about_back.JPG"/>
 <figure>
-  <img src="images/about_back.JPG"/>
+  <img src="images/about_back.JPG" width="500" height="600"/>
   <figcaption><center>[Briksdalsbreen, Jostel, Norway](https://www.fjordnorway.com/top-attractions/briksdalsbreen)</center></figcaption>
 </figure>
 
