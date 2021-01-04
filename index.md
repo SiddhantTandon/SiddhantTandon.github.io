@@ -1,10 +1,10 @@
 
 ## Hello there!
 <img src="images/Logo2-5_crop.gif"/>
-I hail from India, to know more about me, click [here](/ME/about).
+I hail from India, to know more about me, click [here](about).
 You can also find my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf).
 <br><br>
-To learn more about how I came up with my logo, go [here](/ME/logo).
+To learn more about how I came up with my logo, go [here](logo).
 
 ---
 ## Portfolio
