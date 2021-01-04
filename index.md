@@ -1,4 +1,7 @@
-
+Quick links:
+  - [Projects](Projects)
+  - [Leadership](Leadership)
+  - [Volunteer](Volunteer)
 ## Hello there!
 <img src="images/Logo2-5_crop.gif"/>
 I hail from India, to know more about me, click [here](about).
@@ -7,7 +10,7 @@ You can also find my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pd
 To learn more about how I came up with my logo, go [here](logo).
 
 ---
-## Portfolio
+## Projects
 
 ---
 ### Controls
@@ -38,6 +41,13 @@ Udacity Courses
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+
+---
+## Leadership
+
+
+---
+## Volunteer
 
 ---
 
