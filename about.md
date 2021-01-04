@@ -8,8 +8,8 @@ My home is in New Delhi, the capital city of India. Since high school, I have ta
   <figure>
     <img src="images/about_back.png"/>
     <figcaption><center>Briksdalsbreen, Jostel, Norway</center></figcaption>
-  </figure>
-</a>
+  </figure></a>
+
 
 I have few hobbies like reading books on topics under science, technology, self-help, neuroscience, psychology and business. Others include watching Esports (mostly [League of Legends](www.lolesports.com)), exercising (I follow [AthleanX](https://www.youtube.com/user/JDCav24), [10 min TABATA](https://www.youtube.com/watch?v=L1kS5I99dlM), etc.) and sketching.
 
