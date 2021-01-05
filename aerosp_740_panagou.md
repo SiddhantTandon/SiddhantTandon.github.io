@@ -1,4 +1,4 @@
-# Multi-agent Control
+# Multi-Agent Control
 
 
 **Project Description:** AEROSP 740 course by Dr. Dimitra Panagou, Winter 2020, University of Michigan.
@@ -102,6 +102,9 @@ The second aspect of the project was to move to this formation through the obsta
 </figure>
 <!-- blank line -->
 
+Multi-Agent networks are susceptible to attacks from hostile agents and thus cyber-resiliency of such systems is of utmost importance. One way to achieve resiliency is by using filters like the [Sliding Window Mean-Subsequence-Reduced](https://ieeexplore.ieee.org/document/7962962). Below are examples of SW-MSR in use when we have more than one malicious agents in the multi-agent network.
+
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ## Final  Project
 For the final project, I went back to one of the first literature on formation flying by [C. Reynolds](http://www.red3d.com/cwr/boids/). He developed what he called 'boids' or agents which can be controlled to move in formations like birds or fishes. The intent was to recreate real life-like movement of graphics in computer. However, the literature became widely popular in the multi-agent community.

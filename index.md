@@ -2,23 +2,16 @@
 ## Hello there!
 <img src="images/Logo2-5_crop.gif"/>
 I hail from India, to know more about me, click [here](about).
-You can also find my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf).
+You can access my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf), where my research experiences are listed.
 <br><br>
-Quick links:
-  - [About Me](about)
-  - [Projects](#projects)
-  - [Leadership](#leadership)
-  - [Volunteer](#volunteer)
+Quick links: [About Me](about), [Projects](#projects), [Leadership](#leadership), [Volunteer](#volunteer)
 
-<br><br>
 To learn more about how I came up with my logo, go [here](logo).
 
 ---
 ## Projects
 
 ---
-### Controls
-
 [Multi Agent Control](aerosp_740_panagou)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
