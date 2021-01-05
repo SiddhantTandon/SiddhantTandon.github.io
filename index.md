@@ -150,7 +150,7 @@ body{
 </head>
 
 <body>
-## Skills
+<h2>Skills</h2>
 <div class="container">
   <div class="bar one learning" data-skill="ROS"></div>
   <div class="bar two basic" data-skill="C/C++"></div>
