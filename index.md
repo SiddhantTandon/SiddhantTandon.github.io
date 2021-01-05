@@ -17,17 +17,21 @@ To learn more about how I came up with my logo, go [here](logo).
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Specialized Terrestrial Rotorcraft Explorer](spectre)[Airfoil design, mission design, rotorcraft design]<span style="color:red"><em> **published**</em></span>
+[Navigation and Guidance](aerosp_584_pb)[position fixing, Kalman filter, pursuit-evasion games]
+
+---
+
+[Specialized Terrestrial Rotorcraft Explorer](spectre)[Airfoil design, mission design, rotorcraft design]<font color='red'><em> **published**</em></font>
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 Udacity
-  - [Machine Learning Engineer Nanodegree]()[Supervised Learning, Unsupervised Learning, Deep Learning]
-  - [Flying Car and Autonomous Flight Engineer Nanodegree]()[Flight Controls, Kalman Filters, A* search]
-  - [Deep Reinforcement Learning Nanodegree]()[DDPG, Actor-Critic, PPO]
-  - [Sensor Fusion Engineer Nanodegree (current)]()[LiDAR, Camera, Point Cloud Data, C++]
-  - [Robotics Software Engineer Nanodegree (current)]()[ROS, C++, Path Planning]
-  - [Self Driving Car Engineer Nanodegree (current)]()[Computer Vision, C++, machine learning]
+  - [Machine Learning Engineer Nanodegree](https://github.com/SiddhantTandon/dog-project-udacity)[Supervised Learning, Unsupervised Learning, Deep Learning]
+  - [Flying Car and Autonomous Flight Engineer Nanodegree](https://github.com/SiddhantTandon/Udacity_FlyingAutonomousCar)[Flight Controls, Kalman Filters, A* search]
+  - [Deep Reinforcement Learning Nanodegree](https://github.com/SiddhantTandon/DRLND)[DDPG, Actor-Critic, PPO]
+  - [Sensor Fusion Engineer Nanodegree (current)](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313)[LiDAR, Camera, Point Cloud Data, C++]
+  - [Robotics Software Engineer Nanodegree (current)](https://www.udacity.com/course/robotics-software-engineer--nd209)[ROS, C++, Path Planning]
+  - [Self Driving Car Engineer Nanodegree (current)](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)[Computer Vision, C++, machine learning]
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
@@ -36,7 +40,7 @@ Udacity
 
 - [SpaceX One Million People Case Study](others_spacex)
   <img src="images/IMG_2449.png"/>
-- [EPICS Aeronautical Astronautical Engineering Education](http://example.com/)
+- [EPICS Aeronautical Astronautical Engineering Education](others_epics)
 
 ---
 ## Skills
@@ -65,7 +69,7 @@ Udacity
 - Navigation and Guidance of Aerospace Vehicles
 ---
 ### Undergraduate Courses
-- [testing](testing)
+-
 ---
 
 ---
