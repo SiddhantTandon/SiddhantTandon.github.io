@@ -182,172 +182,142 @@ function showSlides(n) {
 
 </body>
 
+<!-- testing skills bar -->
+
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.wrapper{
-        width: 400px;
-        font-family: 'Roboto', sans-serif;
-  margin:0 auto;
-    }
-    .skill {
-        margin-bottom: 35px;
-        position: relative;
-      overflow-x:hidden;
-
-    }
-    .skill > p {
-        font-size: 18px;
-        font-weight: 700;
-        color: #1a1716;
-        margin: 0;
-    }
-    .skill:before{
-        width: 100%;
-        height: 5px;
-        content: "";
-        display: block;
-        position: absolute;
-        background: #959595;
-        bottom: 0;
-    }
-    .skill-bar {
-        width: 100%;
-        height: 5px;
-        background:#f4392f;
-        display: block;
-        position: relative;
-    }
-
-    /* SKILL 1 */
-    .skill1{
-        width: 95%;
-
-    }
-    .skill-bar span{
-        position: absolute;
-        border-top: 5px solid #f4392f;
-        top: -30px;
-        padding: 0;
-        font-size: 18px;
-        padding: 3px 0;
-        font-weight: 500;
-    }
-    .skill-bar {
-        position: relative;
-
-    }
-
-    .skill1 .skill-count1 {
-        right: 0;
-    }
-    /* SKILL 2 */
-    .skill2{
-        width: 85%;
-    }
-
-    .skill2 .skill-count2 {
-        right: 0;
-    }
-    /* SKILL 3 */
-    .skill3{
-        width: 75%;
-    }
-    .skill3 .skill-count3 {
-        right: 0;
-    }
-
-    /* SKILL 4 */
-    .skill4{
-        width: 65%
-    }
-
-    .skill4 .skill-count4 {
-        right: 0;
-    }
-
-    /* SKILL 5 */
-    .skill5{
-        width: 80%;
-    }
-
-    .skill5 .skill-count5 {
-        right: 0;
-    }
-
-    /* SKILL 6 */
-    .skill6{
-        width: 90%
-    }
-
-    .skill6 .skill-count6 {
-        right: 0;
-    }
-/* GITHUB SOURCE STYLE  */
-.github-source{
-  float:right;
-  display:block;
-  color:#fff;
-  margin:0 20px;
-  position: relative;
-  z-index:999999;
-  top:0;
+skills,
+.skills .skill,
+.skills .skill .skill-title,
+.skills .skill .skill-bar {
+   width: 100%;
+   float: left;
 }
-.github-source i{
-  font-size:50px;
-  color:#000
+
+.skills {
+   padding:15px;
+}
+
+.skills .skill {
+   margin-bottom: 30px;
+}
+
+.skills .skill .skill-title {
+   color: #808080;
+   margin-bottom: 10px;
+   font-weight: 400;
+   font-size: 14px;
+}
+
+.skills .skill .skill-bar {
+   width: 0;
+   height: 6px;
+   background: #f0f0f0;
+   transition: 1s cubic-bezier(1, 0, .5, 1);
+   -webkit-transition: 1s cubic-bezier(1, 0, .5, 1);
+   -ms-transition: 1s cubic-bezier(1, 0, .5, 1);
+}
+
+.skills.active .skill .skill-bar {
+   width: 100%;
+}
+
+.skills .skill .skill-bar span {
+   float: left;
+   width: 0%;
+   background: #1D91F2;
+   height: 6px;
+   position: relative;
+   transition: 1s cubic-bezier(1, 0, .5, 1);
+   -webkit-transition: 1s cubic-bezier(1, 0, .5, 1);
+   -ms-transition: 1s cubic-bezier(1, 0, .5, 1);
+}
+
+.skills .skill .skill-bar span b {
+   float: left;
+   width: 100%;
+   position: relative;
+   text-align: right;
+   opacity: 0;
+   font-size: 14px;
+   color: #1D91F2;
+   font-weight: 400;
+   top: -13px;
+}
+
+.container{
+  width: 100%;
+  max-width: 600px;
+  padding:0 15px;
+  margin:0 auto;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,900&subset=latin,latin-ext);
+
+html,body{
+  overflow: hidden;
+  font-family: 'Roboto', sans-serif;
 }
 </style>
 </head>
 
 <body>
-<a class="github-source" href="https://github.com/speeedsam/CSS3-Animated-Skill-Prograss-bar"  target="_blank"><i class="fa fa-github"></i></a>
-<div class="wrapper">
-        <h2 class="how-title">CSS3 Animated Skill Progress bar</h2>
-        <br><br>
-        <div class="skill">
-            <p>HTML5</p>
-            <div class="skill-bar skill1 wow slideInLeft animated">
-                <span class="skill-count1">95%</span>
-            </div>
-        </div>
-        <div class="skill">
-            <p>CSS3</p>
-            <div class="skill-bar skill2 wow slideInLeft animated">
-                 <span class="skill-count2">85%</span>
-            </div>
-        </div>
-        <div class="skill">
-            <p>JQUERY</p>
-            <div class="skill-bar skill3 wow slideInLeft animated">
-                <span class="skill-count3">75%</span>
-            </div>
-        </div>
-        <div class="skill">
-            <p>JAVASCRIP</p>
-            <div class="skill-bar skill4 wow slideInLeft animated">
-                <span class="skill-count4">65%</span>
-            </div>
-        </div>
-        <div class="skill">
-            <p>PHP</p>
-            <div class="skill-bar skill5 wow slideInLeft animated">
-                <span class="skill-count5">80%</span>
-            </div>
-        </div>
-        <div class="skill">
-            <p>WORDPRESS</p>
-            <div class="skill-bar skill6 wow slideInLeft animated">
-                <span class="skill-count6">90%</span>
-            </div>
-        </div>
-    </div><!-- end of /.coloumn -->
+<div class="container">
+<div class="skills">
+   <!-- skill -->
+   <div class="skill">
+      <!-- title -->
+      <div class="skill-title">
+         Web Development
+      </div>
+      <!-- bar -->
+      <div class="skill-bar" data-bar="90"><span></span></div>
+   </div>
+   <!-- #skill -->
+   <!-- skill -->
+   <div class="skill">
+      <!-- title -->
+      <div class="skill-title">
+         Consulting
+      </div>
+      <!-- bar -->
+      <div class="skill-bar" data-bar="70"><span></span></div>
+   </div>
+   <!-- #skill -->
+   <!-- skill -->
+   <div class="skill">
+      <!-- title -->
+      <div class="skill-title">
+         Branding & Identity
+      </div>
+      <!-- bar -->
+      <div class="skill-bar" data-bar="60"><span></span></div>
+   </div>
+   <!-- #skill -->
+   <!-- skill -->
+   <div class="skill">
+      <!-- title -->
+      <div class="skill-title">
+         Graphic Design
+      </div>
+      <!-- bar -->
+      <div class="skill-bar" data-bar="80"><span></span></div>
+   </div>
+   <!-- #skill -->
+</div>
+</div>
 
+<script>
+$(".skills").addClass("active")
+$(".skills .skill .skill-bar span").each(function() {
+   $(this).animate({
+      "width": $(this).parent().attr("data-bar") + "%"
+   }, 1000);
+   $(this).append('<b>' + $(this).parent().attr("data-bar") + '%</b>');
+});
+setTimeout(function() {
+   $(".skills .skill .skill-bar span b").animate({"opacity":"1"},1000);
+}, 2000);
 
-    <script>
-    (function($){
-        new WOW().init();
-    })(jQuery);
-
-    </script>
-    </body>
+</script>
+</body>
