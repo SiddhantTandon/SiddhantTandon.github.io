@@ -47,59 +47,128 @@ Udacity
 ---
 <!-- Beginning of skills section -->
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {box-sizing: border-box}
 
-.container {
-  width: 100%;
-  background-color: #ddd;
+body{
+  font-family: Helvetica, Arial, sans-serif;
+}
+.container{
+  width: 50%;
+  margin: 0 auto;
+}
+@keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-webkit-keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-moz-keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-o-keyframes load{
+  from {
+    width: 0%
+  }
 }
 
-.skills {
-  text-align: right;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  color: white;
+.bar{
+  background-color: #EEE;
+  padding: 2px;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #FFF;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+.bar::before{
+  content:  attr(data-skill);
+  background-color: #f3b0ff;
+  display: inline-block;
+  padding: 5px 0 5px 10px;
+  border-radius: inherit;
+  animation: load 2s 0s;
+  -webkit-animation: load 2s 0s;
+  -moz-animation: load 2s 0s;
+  -o-animation: load 2s 0s;
 }
 
-.matlab {width: 90%; background-color: #0091AD;}
-.cplusplus {width: 50%; background-color: #2196F3;}
-.python {width: 90%; background-color: #FF57BB;}
-.julia {width: 60%; background-color: #F7E8A4;}
-.ros {width: 50%; background-color: #937666;}
+.bar.one::before{
+  background-color: #541388;
+}
+.bar.two::before{
+  background-color: #D90368;
+}
+
+.bar.three::before{
+  background-color: #2196F3;
+}
+
+.bar.four::before{
+  background-color: #2E294E;
+}
+
+.bar.five::before{
+  background-color: #AF4319;
+}
+
+.bar.six::before{
+  background-color: #829CBC;
+}
+
+.bar.seven::before{
+  background-color: #C6ECAE;
+}
+
+.bar.eight::before{
+  background-color: #FF7D00;
+}
+
+.bar.learning::before{
+  width: calc(20% - 10px);
+}
+.bar.basic::before{
+  width: calc(40% - 10px);
+}
+.bar.intermediate::before{
+  width: calc(60% - 10px);
+}
+.bar.advanced::before{
+  width: calc(80% - 10px);
+}
+.bar.expert::before{
+  width: calc(100% - 10px);
+}
+
 </style>
 </head>
+
 <body>
 
-<h2>Skills</h2>
-
-<p>MATLAB</p><div class="container"><div class="skills matlab">90%</div></div>
-
-<p>C/C++</p>
 <div class="container">
-  <div class="skills cplusplus">50%</div>
-</div>
+  <h1>Skill Set</h1>
+  <div class="bar one learning" data-skill="ROS"></div>
+  <div class="bar two basic" data-skill="C/C++"></div>
+  <div class="bar three intermediate" data-skill="Julia"></div>
+  <div class="bar four advanced" data-skill="MATLAB"></div>
+  <div class="bar five expert" data-skill="Python"></div>
+  <div class="bar six basic" data-skill="TensorFlow"></div>
+  <div class="bar seven basic" data-skill="OpenCV"></div>
+  <div class="bar eight learning" data-skill="Unity"></div>
 
-<p>Python</p>
-<div class="container">
-  <div class="skills python">90%</div>
-</div>
-
-<p>Julia</p>
-<div class="container">
-  <div class="skills julia">60%</div>
-</div>
-
-<p>ROS</p>
-<div class="container">
-  <div class="skills ros">50%</div>
 </div>
 
 </body>
 
----
+<!-- end of skills section -->
 
+---
 ## Leadership Experience
 
 - Vice President, Aeronautical and Astronautical Engineering Student Advisory Council, 2019
@@ -114,7 +183,8 @@ Udacity
 ---
 ## Courses
 ---
-### Graduate Courses
+#### Graduate Courses
+---
 
 - Multi-Agent Control
 - Visual Navigation for Aerospace Vehicles
@@ -123,13 +193,13 @@ Udacity
 - Trajectory Optimization
 - Navigation and Guidance of Aerospace Vehicles
 
+---
+#### Undergraduate Courses
 
 ---
 
-### Undergraduate Courses
-- [testing](testing)
 ---
-
+<!--[testing](testing) -->
 ---
 <!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
