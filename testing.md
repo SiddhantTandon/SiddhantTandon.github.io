@@ -237,11 +237,23 @@ body{
   -o-animation: load 2s 0s;
 }
 
-.bar.front::before{
-  background-color: #ffcc33;
+.bar.one::before{
+  background-color: #541388;
 }
-.bar.back::before{
-  background-color: #a6cfe3;
+.bar.two::before{
+  background-color: #D90368;
+}
+
+.bar.three::before{
+  background-color: #2196F3;
+}
+
+.bar.four::before{
+  background-color: #2E294E;
+}
+
+.bar.five::before{
+  background-color: #AF4319;
 }
 
 .bar.learning::before{
@@ -267,11 +279,11 @@ body{
 
 <div class="container">
   <h1>Skill Set</h1>
-  <div class="bar learning" data-skill="TDD"></div>
-  <div class="bar back basic" data-skill="Python"></div>
-  <div class="bar back intermediate" data-skill="C#"></div>
-  <div class="bar front advanced" data-skill="CSS3"></div>
-  <div class="bar front expert" data-skill="HTML5"></div>
+  <div class="bar one learning" data-skill="ROS"></div>
+  <div class="bar two basic" data-skill="C/C++"></div>
+  <div class="bar three intermediate" data-skill="Julia"></div>
+  <div class="bar four advanced" data-skill="MATLAB"></div>
+  <div class="bar five expert" data-skill="Python"></div>
 
 </div>
 
