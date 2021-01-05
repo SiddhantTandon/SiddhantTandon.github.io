@@ -74,10 +74,7 @@ Udacity
 
 <h2>Skills</h2>
 
-<p>MATLAB</p>
-<div class="container">
-  <div class="skills matlab">90%</div>
-</div>
+<p>MATLAB</p><div class="container"><div class="skills matlab">90%</div></div>
 
 <p>C/C++</p>
 <div class="container">
@@ -104,6 +101,7 @@ Udacity
 ---
 
 ## Leadership Experience
+
 - Vice President, Aeronautical and Astronautical Engineering Student Advisory Council, 2019
 - Project Manager, [SPECTRE](), 2018
 - Controls Lead, [SPECTRE](), 2018
@@ -117,13 +115,17 @@ Udacity
 ## Courses
 ---
 ### Graduate Courses
+
 - Multi-Agent Control
 - Visual Navigation for Aerospace Vehicles
 - Linear systems
 - Non-Linear systems
 - Trajectory Optimization
 - Navigation and Guidance of Aerospace Vehicles
+
+
 ---
+
 ### Undergraduate Courses
 -
 ---
