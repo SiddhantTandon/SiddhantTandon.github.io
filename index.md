@@ -72,7 +72,7 @@ Udacity
 </head>
 <body>
 
-## Skills
+<h2>Skills</h2>
 
 <p>MATLAB</p>
 <div class="container">
@@ -98,7 +98,9 @@ Udacity
 <div class="container">
   <div class="skills ros">50%</div>
 </div>
+
 </body>
+
 ---
 
 ## Leadership Experience
