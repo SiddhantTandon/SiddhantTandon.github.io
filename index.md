@@ -4,7 +4,7 @@
 Welcome to my website! <br>
 You can access my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf).
 <br><br>
-Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leadership](#leadership-experience)
+Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leadership](#leadership-experience), [Courses](#courses)
 
 To learn more about how I came up with my logo, click [here](logo).
 
@@ -12,28 +12,26 @@ To learn more about how I came up with my logo, click [here](logo).
 ---
 ## Projects
 
-I have listed a few projects from my graduate and undergraduate experiences.
-
 ---
-[Multi Agent Control](aerosp_740_panagou)[Control lyapunov functions, SW-MSR filter]
+[Multi Agent Control](aerosp_740_panagou) <font color='blue'>[Control lyapunov functions, SW-MSR filter]</font>
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Navigation and Guidance](aerosp_584_pb)[position fixing, Kalman filter, pursuit-evasion games]
+[Navigation and Guidance](aerosp_584_pb) <font color='blue'>[position fixing, Kalman filter, pursuit-evasion games]</font>
 
 ---
 
-[Specialized Terrestrial Rotorcraft Explorer](spectre)[Airfoil design, mission design, rotorcraft design]<font color='red'><em> **published**</em></font>
+[Specialized Terrestrial Rotorcraft Explorer](spectre) <font color='blue'>[Airfoil design, mission design, rotorcraft design]</font><font color='red'><em><b> published </b></em></font>
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 Udacity
-  - [Machine Learning Engineer Nanodegree](https://github.com/SiddhantTandon/dog-project-udacity)[Supervised Learning, Unsupervised Learning, Deep Learning]
-  - [Flying Car and Autonomous Flight Engineer Nanodegree](https://github.com/SiddhantTandon/Udacity_FlyingAutonomousCar)[Flight Controls, Kalman Filters, A* search]
-  - [Deep Reinforcement Learning Nanodegree](https://github.com/SiddhantTandon/DRLND)[DDPG, Actor-Critic, PPO]
-  - [Sensor Fusion Engineer Nanodegree (current)](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313)[LiDAR, Camera, Point Cloud Data, C++]
-  - [Robotics Software Engineer Nanodegree (current)](https://www.udacity.com/course/robotics-software-engineer--nd209)[ROS, C++, Path Planning]
-  - [Self Driving Car Engineer Nanodegree (current)](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)[Computer Vision, C++, machine learning]
+  - [Machine Learning Engineer Nanodegree](https://github.com/SiddhantTandon/dog-project-udacity) <font color='blue'>[Supervised Learning, Unsupervised Learning, Deep Learning]</font>
+  - [Flying Car and Autonomous Flight Engineer Nanodegree](https://github.com/SiddhantTandon/Udacity_FlyingAutonomousCar) <font color='blue'>[Flight Controls, Kalman Filters, A* search]</font>
+  - [Deep Reinforcement Learning Nanodegree](https://github.com/SiddhantTandon/DRLND) <font color='blue'>[DDPG, Actor-Critic, PPO]</font>
+  - [Sensor Fusion Engineer Nanodegree (current)](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) <font color='blue'>[LiDAR, Camera, Point Cloud Data, C++]</font>
+  - [Robotics Software Engineer Nanodegree (current)](https://www.udacity.com/course/robotics-software-engineer--nd209) <font color='blue'>[ROS, C++, Path Planning]</font>
+  - [Self Driving Car Engineer Nanodegree (current)](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) <font color='blue'>[Computer Vision, C++, machine learning]</font>
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
@@ -41,7 +39,7 @@ Udacity
 ### Others
 
 - [SpaceX One Million People Case Study](others_spacex)
-  <img src="images/IMG_2449.png"/>
+
 - [EPICS Aeronautical Astronautical Engineering Education](others_epics)
 
 ---
@@ -178,6 +176,8 @@ body{
 ---
 ## Publications
 ---
+- N. Marquand, S. Tandon, "Specialized Terrestrial Rotorcraft Explorer". AIAA SciTech 2020 Forum, Orlando, FL ,USA. January 2020.
+- S. Tandon, "Demonstration of Self Organzied Cubesats". iCubesat Workshop, Paris, France. May 2018. [link](https://icubesat.org/papers/2018-2/2018-b-3-2-doso-demonstration-of-self-organized-smallsats/)
 
 ---
 ## Courses
@@ -193,12 +193,12 @@ body{
 - Navigation and Guidance of Aerospace Vehicles
 
 ---
-#### Undergraduate Courses
-
+#### Online Courses
 ---
-
+-
 ---
 <!--[testing](testing) -->
+
 ---
 <!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
