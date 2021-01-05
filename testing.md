@@ -186,138 +186,93 @@ function showSlides(n) {
 
 <head>
 <style>
-skills,
-.skills .skill,
-.skills .skill .skill-title,
-.skills .skill .skill-bar {
-   width: 100%;
-   float: left;
-}
 
-.skills {
-   padding:15px;
+body{
+  font-family: Helvetica, Arial, sans-serif;
 }
-
-.skills .skill {
-   margin-bottom: 30px;
-}
-
-.skills .skill .skill-title {
-   color: #808080;
-   margin-bottom: 10px;
-   font-weight: 400;
-   font-size: 14px;
-}
-
-.skills .skill .skill-bar {
-   width: 0;
-   height: 6px;
-   background: #f0f0f0;
-   transition: 1s cubic-bezier(1, 0, .5, 1);
-   -webkit-transition: 1s cubic-bezier(1, 0, .5, 1);
-   -ms-transition: 1s cubic-bezier(1, 0, .5, 1);
-}
-
-.skills.active .skill .skill-bar {
-   width: 100%;
-}
-
-.skills .skill .skill-bar span {
-   float: left;
-   width: 0%;
-   background: #1D91F2;
-   height: 6px;
-   position: relative;
-   transition: 1s cubic-bezier(1, 0, .5, 1);
-   -webkit-transition: 1s cubic-bezier(1, 0, .5, 1);
-   -ms-transition: 1s cubic-bezier(1, 0, .5, 1);
-}
-
-.skills .skill .skill-bar span b {
-   float: left;
-   width: 100%;
-   position: relative;
-   text-align: right;
-   opacity: 0;
-   font-size: 14px;
-   color: #1D91F2;
-   font-weight: 400;
-   top: -13px;
-}
-
 .container{
-  width: 100%;
-  max-width: 600px;
-  padding:0 15px;
-  margin:0 auto;
+  width: 50%;
+  margin: 0 auto;
+}
+@keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-webkit-keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-moz-keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-o-keyframes load{
+  from {
+    width: 0%
+  }
 }
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,900&subset=latin,latin-ext);
-
-html,body{
-  overflow: hidden;
-  font-family: 'Roboto', sans-serif;
+.bar{
+  background-color: #EEE;
+  padding: 2px;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #FFF;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
+.bar::before{
+  content:  attr(data-skill);
+  background-color: #f3b0ff;
+  display: inline-block;
+  padding: 5px 0 5px 10px;
+  border-radius: inherit;
+  animation: load 2s 0s;
+  -webkit-animation: load 2s 0s;
+  -moz-animation: load 2s 0s;
+  -o-animation: load 2s 0s;
+}
+
+.bar.front::before{
+  background-color: #ffcc33;
+}
+.bar.back::before{
+  background-color: #a6cfe3;
+}
+
+.bar.learning::before{
+  width: calc(20% - 10px);
+}
+.bar.basic::before{
+  width: calc(40% - 10px);
+}
+.bar.intermediate::before{
+  width: calc(60% - 10px);
+}
+.bar.advanced::before{
+  width: calc(80% - 10px);
+}
+.bar.expert::before{
+  width: calc(100% - 10px);
+}
+
 </style>
 </head>
 
 <body>
+
 <div class="container">
-<div class="skills">
-   <!-- skill -->
-   <div class="skill">
-      <!-- title -->
-      <div class="skill-title">
-         Web Development
-      </div>
-      <!-- bar -->
-      <div class="skill-bar" data-bar="90"><span></span></div>
-   </div>
-   <!-- #skill -->
-   <!-- skill -->
-   <div class="skill">
-      <!-- title -->
-      <div class="skill-title">
-         Consulting
-      </div>
-      <!-- bar -->
-      <div class="skill-bar" data-bar="70"><span></span></div>
-   </div>
-   <!-- #skill -->
-   <!-- skill -->
-   <div class="skill">
-      <!-- title -->
-      <div class="skill-title">
-         Branding & Identity
-      </div>
-      <!-- bar -->
-      <div class="skill-bar" data-bar="60"><span></span></div>
-   </div>
-   <!-- #skill -->
-   <!-- skill -->
-   <div class="skill">
-      <!-- title -->
-      <div class="skill-title">
-         Graphic Design
-      </div>
-      <!-- bar -->
-      <div class="skill-bar" data-bar="80"><span></span></div>
-   </div>
-   <!-- #skill -->
-</div>
+  <h1>Skill Set</h1>
+  <div class="bar learning" data-skill="TDD"></div>
+  <div class="bar back basic" data-skill="Python"></div>
+  <div class="bar back intermediate" data-skill="C#"></div>
+  <div class="bar front advanced" data-skill="CSS3"></div>
+  <div class="bar front expert" data-skill="HTML5"></div>
+
 </div>
 
-<script>
-$(".skills").addClass("active")
-$(".skills .skill .skill-bar span").each(function() {
-   $(this).animate({
-      "width": $(this).parent().attr("data-bar") + "%"
-   }, 1000);
-   $(this).append('<b>' + $(this).parent().attr("data-bar") + '%</b>');
-});
-setTimeout(function() {
-   $(".skills .skill .skill-bar span b").animate({"opacity":"1"},1000);
-}, 2000);
-
-</script>
 </body>
