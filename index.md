@@ -64,8 +64,8 @@ Udacity
 - Trajectory Optimization
 - Navigation and Guidance of Aerospace Vehicles
 ---
-### Undergraduate Courses [testing]
-- ?
+### Undergraduate Courses
+- [testing](testing)
 ---
 
 ---
