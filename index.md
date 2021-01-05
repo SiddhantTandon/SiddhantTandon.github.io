@@ -150,9 +150,8 @@ body{
 </head>
 
 <body>
-
+## Skills
 <div class="container">
-  <h1>Skill Set</h1>
   <div class="bar one learning" data-skill="ROS"></div>
   <div class="bar two basic" data-skill="C/C++"></div>
   <div class="bar three intermediate" data-skill="Julia"></div>
