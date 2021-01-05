@@ -6,15 +6,15 @@ My hometown is New Delhi, the capital city of India. I have few hobbies like rea
 
 Two things I like about nature:
 
-Mountains!
+Glaciers!
 <p><a href="https://www.fjordnorway.com/top-attractions/briksdalsbreen">
   <figure>
-    <img src="images/about_back.png"/>
+    <img src="images/glacier1.jpeg"/>
     <figcaption><center>Briksdalsbreen, Jostel, Norway</center></figcaption>
   </figure>
 </a></p>
 
-And glaciers!
+And more Glaciers!
 <p><a href="https://www.alaska.org/detail/mendenhall-glacier-visitor-center">
   <figure>
     <img src="images/IMG_1981.png"/>
