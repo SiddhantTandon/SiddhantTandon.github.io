@@ -149,12 +149,13 @@ body{
 
 <body>
 <h2>Skills</h2>
+<p> The skill bars below display my comfort and proficiency in percentage, with a full bar displaying 100% proficiency.
 <div class="container">
   <div class="bar one learning" data-skill="ROS"></div>
   <div class="bar two basic" data-skill="C/C++"></div>
   <div class="bar three intermediate" data-skill="Julia"></div>
   <div class="bar four advanced" data-skill="MATLAB"></div>
-  <div class="bar five expert" data-skill="Python"></div>
+  <div class="bar five advanced" data-skill="Python"></div>
   <div class="bar six basic" data-skill="TensorFlow"></div>
   <div class="bar seven basic" data-skill="OpenCV"></div>
   <div class="bar eight learning" data-skill="Unity"></div>

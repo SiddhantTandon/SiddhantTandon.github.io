@@ -104,7 +104,15 @@ The second aspect of the project was to move to this formation through the obsta
 
 Multi-Agent networks are susceptible to attacks from hostile agents and thus cyber-resiliency of such systems is of utmost importance. One way to achieve resiliency is by using filters like the [Sliding Window Mean-Subsequence-Reduced](https://ieeexplore.ieee.org/document/7962962). Below are examples of SW-MSR in use when we have more than one malicious agents in the multi-agent network.
 
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+<figure>
+  <img src="images/prob3_wmsr2.png"/>
+  <figcaption><center>K-circulant graph with 2 malicious agents disturbing consensus of multi-agents</center></figcaption>
+</figure>
+
+<figure>
+  <img src="images/prob3_wmsr.png"/>
+  <figcaption><center>K-circulant graph now using SW-MSR filtering</center></figcaption>
+</figure>
 
 ## Final  Project
 For the final project, I went back to one of the first literature on formation flying by [C. Reynolds](http://www.red3d.com/cwr/boids/). He developed what he called 'boids' or agents which can be controlled to move in formations like birds or fishes. The intent was to recreate real life-like movement of graphics in computer. However, the literature became widely popular in the multi-agent community.
