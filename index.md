@@ -53,7 +53,7 @@ body{
   font-family: Helvetica, Arial, sans-serif;
 }
 .container{
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
 }
 @keyframes load{
