@@ -149,7 +149,7 @@ body{
 
 <body>
 <h2>Skills</h2>
-<p> The skill bars below display my comfort and proficiency in percentage, with a full bar displaying 100% proficiency.
+<p> The skill bars below display my comfort and proficiency in percentage, with a full bar displaying 100% proficiency.</p>
 <div class="container">
   <div class="bar one learning" data-skill="ROS"></div>
   <div class="bar two basic" data-skill="C/C++"></div>
