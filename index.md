@@ -45,9 +45,9 @@ Udacity
 
 ## Leadership Experience
 - Vice President, Aeronautical and Astronautical Engineering Student Advisory Council, 2019
-- Project Manager, [SPECTRE](#specialized-terrrestrial-rotorcraft-explorer), 2018
-- Controls Lead, [SPECTRE](#specialized-terrrestrial-rotorcraft-explorer), 2018
-- Science Lead, [SPECTRE](#specialized-terrrestrial-rotorcraft-explorer), 2017
+- Project Manager, [SPECTRE](), 2018
+- Controls Lead, [SPECTRE](), 2018
+- Science Lead, [SPECTRE](), 2017
 
 ---
 ## Publications
@@ -64,8 +64,10 @@ Udacity
 - Trajectory Optimization
 - Navigation and Guidance of Aerospace Vehicles
 ---
-### Undergraduate Courses
+### Undergraduate Courses [testing]
 - ?
+---
+
 ---
 <!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
