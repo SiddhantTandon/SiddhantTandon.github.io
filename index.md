@@ -34,7 +34,7 @@ Udacity Courses
 ### Others
 
 - [SpaceX One Million People Case Study](https://engineering.purdue.edu/AAECourses/aae450/2017/spring)
-  <img src="images/IMG_2453.png"/>
+  <img src="images/IMG_2449.png"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
