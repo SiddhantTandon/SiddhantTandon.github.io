@@ -98,7 +98,7 @@ Udacity
 <div class="container">
   <div class="skills ros">50%</div>
 </div>
-
+</body>
 ---
 
 ## Leadership Experience
