@@ -10,7 +10,7 @@ Glaciers!
 <p><a href="https://www.fjordnorway.com/top-attractions/briksdalsbreen">
   <figure>
     <img src="images/glacier1.jpeg"/>
-    <figcaption><center>Briksdalsbreen, Jostel, Norway</center></figcaption>
+    <figcaption><center>Briksdalsbreen, Vestland, Norway</center></figcaption>
   </figure>
 </a></p>
 

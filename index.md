@@ -1,16 +1,18 @@
 
 ## Hello there!
 <img src="images/Logo2-5_crop.gif"/>
-I hail from India, to know more about me, click [here](about).
-You can access my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf), where my research experiences are listed.
+Welcome to my website! <br>
+You can access my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf).
 <br><br>
 Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leadership](#leadership-experience)
 
-To learn more about how I came up with my logo, go [here](logo).
+To learn more about how I came up with my logo, click [here](logo).
 
 
 ---
 ## Projects
+
+I have listed a few projects from my graduate and undergraduate experiences.
 
 ---
 [Multi Agent Control](aerosp_740_panagou)[Control lyapunov functions, SW-MSR filter]
@@ -43,7 +45,59 @@ Udacity
 - [EPICS Aeronautical Astronautical Engineering Education](others_epics)
 
 ---
+<!-- Beginning of skills section -->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.matlab {width: 90%; background-color: #0091AD;}
+.cplusplus {width: 50%; background-color: #2196F3;}
+.python {width: 90%; background-color: #FF57BB;}
+.julia {width: 60%; background-color: #F7E8A4;}
+.ros {width: 50%; background-color: #937666;}
+</style>
+</head>
+<body>
+
 ## Skills
+
+<p>MATLAB</p>
+<div class="container">
+  <div class="skills matlab">90%</div>
+</div>
+
+<p>C/C++</p>
+<div class="container">
+  <div class="skills cplusplus">50%</div>
+</div>
+
+<p>Python</p>
+<div class="container">
+  <div class="skills python">90%</div>
+</div>
+
+<p>Julia</p>
+<div class="container">
+  <div class="skills julia">60%</div>
+</div>
+
+<p>ROS</p>
+<div class="container">
+  <div class="skills ros">50%</div>
+</div>
 
 ---
 
