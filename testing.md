@@ -181,3 +181,173 @@ function showSlides(n) {
 </script>
 
 </body>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.wrapper{
+        width: 400px;
+        font-family: 'Roboto', sans-serif;
+  margin:0 auto;
+    }
+    .skill {
+        margin-bottom: 35px;
+        position: relative;
+      overflow-x:hidden;
+
+    }
+    .skill > p {
+        font-size: 18px;
+        font-weight: 700;
+        color: #1a1716;
+        margin: 0;
+    }
+    .skill:before{
+        width: 100%;
+        height: 5px;
+        content: "";
+        display: block;
+        position: absolute;
+        background: #959595;
+        bottom: 0;
+    }
+    .skill-bar {
+        width: 100%;
+        height: 5px;
+        background:#f4392f;
+        display: block;
+        position: relative;
+    }
+
+    /* SKILL 1 */
+    .skill1{
+        width: 95%;
+
+    }
+    .skill-bar span{
+        position: absolute;
+        border-top: 5px solid #f4392f;
+        top: -30px;
+        padding: 0;
+        font-size: 18px;
+        padding: 3px 0;
+        font-weight: 500;
+    }
+    .skill-bar {
+        position: relative;
+
+    }
+
+    .skill1 .skill-count1 {
+        right: 0;
+    }
+    /* SKILL 2 */
+    .skill2{
+        width: 85%;
+    }
+
+    .skill2 .skill-count2 {
+        right: 0;
+    }
+    /* SKILL 3 */
+    .skill3{
+        width: 75%;
+    }
+    .skill3 .skill-count3 {
+        right: 0;
+    }
+
+    /* SKILL 4 */
+    .skill4{
+        width: 65%
+    }
+
+    .skill4 .skill-count4 {
+        right: 0;
+    }
+
+    /* SKILL 5 */
+    .skill5{
+        width: 80%;
+    }
+
+    .skill5 .skill-count5 {
+        right: 0;
+    }
+
+    /* SKILL 6 */
+    .skill6{
+        width: 90%
+    }
+
+    .skill6 .skill-count6 {
+        right: 0;
+    }
+/* GITHUB SOURCE STYLE  */
+.github-source{
+  float:right;
+  display:block;
+  color:#fff;
+  margin:0 20px;
+  position: relative;
+  z-index:999999;
+  top:0;
+}
+.github-source i{
+  font-size:50px;
+  color:#000
+}
+</style>
+</head>
+
+<body>
+<a class="github-source" href="https://github.com/speeedsam/CSS3-Animated-Skill-Prograss-bar"  target="_blank"><i class="fa fa-github"></i></a>
+<div class="wrapper">
+        <h2 class="how-title">CSS3 Animated Skill Progress bar</h2>
+        <br><br>
+        <div class="skill">
+            <p>HTML5</p>
+            <div class="skill-bar skill1 wow slideInLeft animated">
+                <span class="skill-count1">95%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>CSS3</p>
+            <div class="skill-bar skill2 wow slideInLeft animated">
+                 <span class="skill-count2">85%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>JQUERY</p>
+            <div class="skill-bar skill3 wow slideInLeft animated">
+                <span class="skill-count3">75%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>JAVASCRIP</p>
+            <div class="skill-bar skill4 wow slideInLeft animated">
+                <span class="skill-count4">65%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>PHP</p>
+            <div class="skill-bar skill5 wow slideInLeft animated">
+                <span class="skill-count5">80%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>WORDPRESS</p>
+            <div class="skill-bar skill6 wow slideInLeft animated">
+                <span class="skill-count6">90%</span>
+            </div>
+        </div>
+    </div><!-- end of /.coloumn -->
+
+
+    <script>
+    (function($){
+        new WOW().init();
+    })(jQuery);
+
+    </script>
+    </body>
