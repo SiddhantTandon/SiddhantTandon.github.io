@@ -59,18 +59,64 @@ Lastly, video below is on multi-agent circular formation using undirected path g
 
 ## Project 2: Collision Avoidance and Safe Path Planning
 
-The second project emphasized the use of control lyapunov functions and control barrier functions to build multi-agent controllers that are safe for operation. We can optimize for safe path planning formation, 
+The second project emphasized the use of control lyapunov functions and control barrier functions to build multi-agent controllers that are safe for operation. We can optimize for safe path planning formation, by implementing a [Quadratic Program](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Quadratic_Programming.pdf) with the aforementioned control functions as constraints.
 
+Below we can see an example of multi-agent system that starts from given position and is moving towards its destination without colliding with other agents in the process.
 
-## Project 3: Formation Flying and Obstacle Avoidance
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/uMbWNOECFKI" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
+Another important control problem is that of resolving deadlocks, which happen when agents are moving towards each other on a straight line. An example is given below.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/yYBK6Aq2qME" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+There are ways to implement a controller to avoid such deadlocks by using perturbations. The video below shows that in action.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/jhrn8rpd-YU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+## Project 3: Formation Flying, Obstacle Avoidance and Cyber-resilience
+
+In the last project we learn to handle multiple agents in a real environment with obstacles. The aim was to create control lyapunov functions and control barrier functions which will lead to successful operation of the agents in the problem statement.
+
+The first video is about how to control agents to form a formation when their origniating position is random in an obstacle environment.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/Wl6cg81tRzo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+The second aspect of the project was to move to this formation through the obstacle course to their new position. To implement this task, I created a leader-follower path network graph, which controls the agents to travel safely through the obstacles to their destinations.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/-O_Jsy-oGNs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 
 ## Final  Project
+For the final project, I went back to one of the first literature on formation flying by [C. Reynolds](http://www.red3d.com/cwr/boids/). He developed what he called 'boids' or agents which can be controlled to move in formations like birds or fishes. The intent was to recreate real life-like movement of graphics in computer. However, the literature became widely popular in the multi-agent community.
 
-Youtube Video on boids is below:
+I personally like this Youtube Video on boids below:
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/bqtqltqcQhw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+I implemented my own version of it as shown below in a short video, capturing the major elements as described by C. Reynolds as 'separation' (or collision avoidance), 'alignment' (leader-follower) and 'cohesion' (formation control).
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/PjmeAlUoXE0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
