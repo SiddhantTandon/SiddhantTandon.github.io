@@ -4,38 +4,24 @@
 I hail from India, to know more about me, click [here](about).
 You can access my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf), where my research experiences are listed.
 <br><br>
-Quick links: [About Me](about), [Projects](#projects), [Leadership](#leadership), [Volunteer](#volunteer)
+Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leadership](#leadership-experience)
 
 To learn more about how I came up with my logo, go [here](logo).
-
-<style>
-img {
-  border: 1px solid #ddd; /* Gray border */
-  border-radius: 4px;  /* Rounded border */
-  padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
-}
-
-/* Add a hover effect (blue shadow) */
-img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-}
-</style>
 
 
 ---
 ## Projects
 
 ---
-[Multi Agent Control](aerosp_740_panagou)
+[Multi Agent Control](aerosp_740_panagou)[Control lyapunov functions, SW-MSR filter]
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Specialized Terrestrial Rotorcraft Explorer](spectre)
+[Specialized Terrestrial Rotorcraft Explorer](spectre)[Airfoil design, mission design, rotorcraft design]<span style="color:red"><em> **published**</em></span>
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-Udacity Courses
+Udacity
   - [Machine Learning Engineer Nanodegree]()[Supervised Learning, Unsupervised Learning, Deep Learning]
   - [Flying Car and Autonomous Flight Engineer Nanodegree]()[Flight Controls, Kalman Filters, A* search]
   - [Deep Reinforcement Learning Nanodegree]()[DDPG, Actor-Critic, PPO]
@@ -48,25 +34,38 @@ Udacity Courses
 
 ### Others
 
-- [SpaceX One Million People Case Study](https://engineering.purdue.edu/AAECourses/aae450/2017/spring)
+- [SpaceX One Million People Case Study](others_spacex)
   <img src="images/IMG_2449.png"/>
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [EPICS Aeronautical Astronautical Engineering Education](http://example.com/)
 
 ---
-## Leadership
-
+## Skills
 
 ---
-## Volunteer
+
+## Leadership Experience
+- Vice President, Aeronautical and Astronautical Engineering Student Advisory Council, 2019
+- Project Manager, [SPECTRE](#specialized-terrrestrial-rotorcraft-explorer), 2018
+- Controls Lead, [SPECTRE](#specialized-terrrestrial-rotorcraft-explorer), 2018
+- Science Lead, [SPECTRE](#specialized-terrrestrial-rotorcraft-explorer), 2017
+
+---
+## Publications
+---
 
 ---
 ## Courses
-
-
-
+---
+### Graduate Courses
+- Multi-Agent Control
+- Visual Navigation for Aerospace Vehicles
+- Linear systems
+- Non-Linear systems
+- Trajectory Optimization
+- Navigation and Guidance of Aerospace Vehicles
+---
+### Undergraduate Courses
+- ?
 ---
 <!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
