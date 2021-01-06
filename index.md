@@ -48,6 +48,7 @@ Udacity
 - [SpaceX One Million People Case Study](others_spacex)
 
 - [EPICS Aeronautical Astronautical Engineering Education](others_epics)
+
 ---
 ### MORE Projects are coming soon!
 
