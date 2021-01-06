@@ -104,6 +104,8 @@ The second aspect of the project was to move to this formation through the obsta
 
 Multi-Agent networks are susceptible to attacks from hostile agents and thus cyber-resiliency of such systems is of utmost importance. One way to achieve resiliency is by using filters like the [Sliding Window Mean-Subsequence-Reduced](https://ieeexplore.ieee.org/document/7962962). Below are examples of SW-MSR in use when we have more than one malicious agents in the multi-agent network.
 
+<img src="images/prob3_wmsr2.png"/>
+
 <figure>
   <img src="images/prob3_wmsr2.png"/>
   <figcaption><center>K-circulant graph with 2 malicious agents disturbing consensus of multi-agents</center></figcaption>

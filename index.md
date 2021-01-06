@@ -1,8 +1,8 @@
 
 ## Hello there!
-<img src="images/Logo2-5_crop.gif"/>
-Welcome to my website!
+<img src="images/Logo2-5_crop.gif"/> <br>
 
+Welcome to my website!
 <br>
 Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leadership](#leadership-experience), [Courses](#courses)
 
@@ -108,7 +108,7 @@ body{
 }
 
 .bar.four::before{
-  background-color: #2E294E;
+  background-color: #F6AE2D;
 }
 
 .bar.five::before{
