@@ -1,13 +1,12 @@
 
 ## Hello there!
 <img src="images/Logo2-5_crop.gif"/>
-Welcome to my website! <br>
+Welcome to my website!
 
-<br><br>
+<br>
 Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leadership](#leadership-experience), [Courses](#courses)
 
 To learn more about how I came up with my logo, click [here](logo).
-
 
 ---
 ## Projects

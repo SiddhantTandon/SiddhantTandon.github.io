@@ -30,3 +30,4 @@ And more Glaciers!
 3. Online reading
    - [xkcd](https://xkcd.com/)
    - [Life Hacker](https://lifehacker.com/)
+4. [2020's Biggest Breakthroughs in Math and Computer Science](https://www.youtube.com/watch?v=HL7DEkXV_60)
