@@ -106,16 +106,16 @@ Multi-Agent networks are susceptible to attacks from hostile agents and thus cyb
 
 
 
-<p><a href="images/prob3_wmsr2.png">
+<p><a href="images/wmsr2.png">
   <figure>
-    <img src="images/prob3_wmsr2.png"/>
+    <img src="images/wmsr2.png"/>
     <figcaption><center>K-circulant graph with 2 malicious agents affecting consensus on altitude</center></figcaption>
   </figure>
 </a></p>
 
 <figure>
-  <img src="images/prob3_wmsr.png"/>
-  <figcaption><center>K-circulant graph now using SW-MSR filtering</center></figcaption>
+  <img src="images/wmsr.png"/>
+  <figcaption><center>K-circulant graph now using WMSR filtering</center></figcaption>
 </figure>
 
 ## Final  Project
