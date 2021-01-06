@@ -179,9 +179,9 @@ body{
 ## Leadership Experience
 
 - Vice President, Aeronautical and Astronautical Engineering Student Advisory Council, 2019
-- Project Manager, [SPECTRE](), 2018
-- Controls Lead, [SPECTRE](), 2018
-- Science Lead, [SPECTRE](), 2017
+- Project Manager, [SPECTRE](spectre.md#science-lead), 2018
+- Controls Lead, [SPECTRE](spectre.md#controls-lead), 2018
+- Science Lead, [SPECTRE](spectre.md#project-manager), 2017
 
 ---
 ## Publications
