@@ -179,9 +179,9 @@ body{
 ## Leadership Experience
 
 - Vice President, Aeronautical and Astronautical Engineering Student Advisory Council, 2019
-- Project Manager, [SPECTRE](spectre.md#science-lead), 2018
+- Project Manager, [SPECTRE](spectre.md#project-manager), 2018
 - Controls Lead, [SPECTRE](spectre.md#controls-lead), 2018
-- Science Lead, [SPECTRE](spectre.md#project-manager), 2017
+- Science Lead, [SPECTRE](spectre.md#science-lead), 2017
 
 ---
 ## Publications
@@ -214,6 +214,7 @@ body{
 - Natural Language Processing with Python
 - Synthetic Images with DCGANs
 - Object Tracking with OpenCV and Python
+
 ---
 <!--[testing](testing) -->
 
