@@ -42,7 +42,7 @@ Soon after we defined our objectives, in 2018 we organized several small teams t
 <p><a href="https://www.bitcraze.io/products/old-products/crazyflie-2-0/">
   <figure>
     <img src="images/crazyflie_representation.png"/>
-    <figcaption><center>Crazyflie 2.o</center></figcaption>
+    <figcaption><center>Crazyflie 2.0</center></figcaption>
   </figure>
 </a></p>
 
