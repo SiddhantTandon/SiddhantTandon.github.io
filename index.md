@@ -9,6 +9,14 @@ Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leade
 To learn more about how I came up with my logo, click [here](logo).
 
 ---
+## Research Experience
+---
+- [Gorodetsky Group: Computational Autonomy, University of Michigan](gorodetsky)
+- [Hybrid Systems Lab, Purdue University](hwang)
+- [Institute of Space Systems, Technical University of Braunschweig](khalil)
+- [Planetary Systems and Surfaces Lab, Purdue University](minton)
+
+---
 ## Projects
 
 ---
@@ -40,6 +48,8 @@ Udacity
 - [SpaceX One Million People Case Study](others_spacex)
 
 - [EPICS Aeronautical Astronautical Engineering Education](others_epics)
+---
+### MORE Projects are coming soon!
 
 ---
 <!-- Beginning of skills section -->
@@ -189,13 +199,21 @@ body{
 - Visual Navigation for Aerospace Vehicles
 - Linear systems
 - Non-Linear systems
-- Trajectory Optimization
+- Flight and Trajectory Optimization
 - Navigation and Guidance of Aerospace Vehicles
 
 ---
 #### Online Courses
 ---
--
+- Deep Reinforcement Learning 2.0
+- Unspervised Learning and Hidden Markov Models
+- Cluster Analysis and Unsupervised Learning
+- Model Predictive Control
+- Combinatorial Problems and Ant Colony Optimization
+- Particle Swarm Optimization in MATLAB
+- Natural Language Processing with Python
+- Synthetic Images with DCGANs
+- Object Tracking with OpenCV and Python
 ---
 <!--[testing](testing) -->
 
