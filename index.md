@@ -158,7 +158,7 @@ body{
 </head>
 
 <body>
-<a id="#skills"><h2>Skills</h2></a>
+<p id="#skills"><h2>Skills</h2></p>
 
 <p> The skill bars below display my comfort and proficiency in percentage, with a full bar displaying 100% proficiency.</p>
 <div class="container">
