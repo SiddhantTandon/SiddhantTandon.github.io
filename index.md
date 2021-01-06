@@ -4,7 +4,7 @@
 
 Welcome to my website!
 <br>
-Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leadership](#leadership-experience), [Courses](#courses)
+Quick links: [About Me](about), [Projects](#projects), <a href="#skills">Skills</a>, [Leadership](#leadership-experience), [Courses](#courses)
 
 To learn more about how I came up with my logo, click [here](logo).
 
@@ -158,7 +158,8 @@ body{
 </head>
 
 <body>
-<h2>Skills</h2>
+<a id="#skills"><h2>Skills</h2></a>
+
 <p> The skill bars below display my comfort and proficiency in percentage, with a full bar displaying 100% proficiency.</p>
 <div class="container">
   <div class="bar one learning" data-skill="ROS"></div>
