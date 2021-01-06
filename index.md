@@ -2,7 +2,7 @@
 ## Hello there!
 <img src="images/Logo2-5_crop.gif"/>
 Welcome to my website! <br>
-You can access my [Updated resume](/pdf/SiddhantTandon_updated_resume_Dec1.pdf).
+
 <br><br>
 Quick links: [About Me](about), [Projects](#projects), [Skills](#skills), [Leadership](#leadership-experience), [Courses](#courses)
 
