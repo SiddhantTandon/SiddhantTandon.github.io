@@ -37,3 +37,5 @@ Initially my task was to operate mock-satellites on an air-bearing table, then w
 It turned out that the mock-satellites were installed with incorrect orientation of thruster-fans, used for generating thrust, and that they would lose thrust output with time, due to motors heating up. We were able to fix the problem and during the last few weeks of my internship I helped the lab develop a kalman filter for close-proximity operations of the mock-satellites.
 
 To know more please contact me!
+
+Similar projects: [SASSI2](cubesat)
