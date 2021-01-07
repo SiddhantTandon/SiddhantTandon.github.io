@@ -4,7 +4,7 @@
 
 Welcome to my website!
 <br>
-Quick links: [About Me](about), [Projects](#projects), <a href="#skills">Skills</a>, [Leadership](#leadership-experience), [Courses](#courses), [Contact Me](#contact-me)
+Quick links: [About Me](about), [Projects](#projects), <a href="#skills">Skills</a>, [Leadership](#leadership-experience), [Courses](#courses), [Contact Me](contact)
 
 To learn more about how I came up with my logo, click [here](logo).
 
@@ -38,7 +38,7 @@ To learn more about how I came up with my logo, click [here](logo).
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-Udacity
+### Udacity Projects
   - [Machine Learning Engineer Nanodegree](https://github.com/SiddhantTandon/dog-project-udacity) <font color='blue'>[Supervised Learning, Unsupervised Learning, Deep Learning]</font>
   - [Flying Car and Autonomous Flight Engineer Nanodegree](https://github.com/SiddhantTandon/Udacity_FlyingAutonomousCar) <font color='blue'>[Flight Controls, Kalman Filters, A* search]</font>
   - [Deep Reinforcement Learning Nanodegree](https://github.com/SiddhantTandon/DRLND) <font color='blue'>[DDPG, Actor-Critic, PPO]</font>
@@ -49,7 +49,7 @@ Udacity
 
 ---
 
-### Others
+### Other Projects
 
 - [SpaceX One Million People Case Study](others_spacex)
 
