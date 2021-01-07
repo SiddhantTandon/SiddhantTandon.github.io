@@ -67,6 +67,8 @@ To learn more about how I came up with my logo, click [here](logo).
 
 - [EPICS Aeronautical Astronautical Engineering Education](others_epics)
 
+- [SASSI2](cubesat)
+
 ---
 ### MORE Projects are coming soon!
 
