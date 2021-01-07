@@ -4,17 +4,23 @@
 
 Welcome to my website!
 <br>
-Quick links: [About Me](about), [Projects](#projects), <a href="#skills">Skills</a>, [Leadership](#leadership-experience), [Courses](#courses)
+Quick links: [About Me](about), [Projects](#projects), <a href="#skills">Skills</a>, [Leadership](#leadership-experience), [Courses](#courses), [Contact Me](#contact-me)
 
 To learn more about how I came up with my logo, click [here](logo).
 
 ---
 ## Research Experience
 ---
-- [Gorodetsky Group: Computational Autonomy, University of Michigan](gorodetsky)
-- [Hybrid Systems Lab, Purdue University](hwang)
-- [Institute of Space Systems, Technical University of Braunschweig](khalil)
-- [Planetary Systems and Surfaces Lab, Purdue University](minton)
+[Gorodetsky Group: Computational Autonomy, University of Michigan](gorodetsky)
+
+---
+[Hybrid Systems Lab, Purdue University](hwang)
+
+---
+[Institute of Space Systems, Technical University of Braunschweig](khalil)
+
+---
+[Planetary Systems and Surfaces Lab, Purdue University](minton)
 
 ---
 ## Projects
@@ -216,6 +222,7 @@ body{
 - Natural Language Processing with Python
 - Synthetic Images with DCGANs
 - Object Tracking with OpenCV and Python
+
 
 ---
 <!--[testing](testing) -->

@@ -85,4 +85,4 @@ The video below is the experiment we conducted on the airfoil design we came up 
   <iframe src="https://www.youtube.com/embed/Oui9f6FYo2g" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-The result in the end, as you can hear my friend excitingly shout 'it survives!'
+The result in the end, as you can hear my friend excitingly say 'it lives!'
