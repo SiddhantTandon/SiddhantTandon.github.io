@@ -34,8 +34,9 @@ To learn more about how I came up with my logo, click [here](logo).
 [Planetary Systems and Surfaces Lab, Purdue University](minton)
 
 ---
+<body>
 <div id="projects"><h2>Projects</h2></div>
-
+</body>
 ---
 [Multi Agent Control](aerosp_740_panagou) <font color='blue'>[Control lyapunov functions, SW-MSR filter]</font>
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
