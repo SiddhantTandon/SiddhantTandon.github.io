@@ -1,10 +1,21 @@
 
+<!-- for smooth scroll -->
+<head>
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
+</head>
+<!-- smooth scroll css end -->
+
+
 ## Hello there!
 <img src="images/Logo2-5_crop.gif"/> <br>
 
 Welcome to my website!
 <br>
-Quick links: [About Me](about), [Projects](#projects), <a href="#skills">Skills</a>, [Leadership](#leadership-experience), [Courses](#courses), [Contact Me](contact)
+Quick links: [About Me](about), <a href="#prohects">Projects</a>, <a href="#skills">Skills</a>, [Leadership](#leadership-experience), [Courses](#courses), [Contact Me](contact)
 
 To learn more about how I came up with my logo, click [here](logo).
 
@@ -23,7 +34,7 @@ To learn more about how I came up with my logo, click [here](logo).
 [Planetary Systems and Surfaces Lab, Purdue University](minton)
 
 ---
-## Projects
+<div id="projects"><h2>Projects</h2></div>
 
 ---
 [Multi Agent Control](aerosp_740_panagou) <font color='blue'>[Control lyapunov functions, SW-MSR filter]</font>
