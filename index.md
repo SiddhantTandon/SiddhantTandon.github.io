@@ -15,7 +15,7 @@ html {
 
 Welcome to my website!
 <br>
-Quick links: [About Me](about), <a href="#projects">Projects</a>, <a href="#skills">Skills</a>, [Leadership](#leadership-experience), [Courses](#courses), [Contact Me](contact)
+Quick links: [About Me](about), <a href="#projects">Projects</a>, <a href="#skills">Skills</a>, <a href="#leadership">Leadership Experience</a>, <a href="#courses">Courses</a>, <a href="#publications">Publications</a>, [Contact Me](contact)
 
 To learn more about how I came up with my logo, click [here](logo).
 
@@ -196,7 +196,7 @@ body{
 <!-- end of skills section -->
 
 ---
-## Leadership Experience
+<div id="leadership"><h2>Leadership Experience</h2></div>
 
 - Vice President, Aeronautical and Astronautical Engineering Student Advisory Council, 2019
 - Project Manager, [SPECTRE](spectre.md#project-manager), 2018
@@ -204,13 +204,15 @@ body{
 - Science Lead, [SPECTRE](spectre.md#science-lead), 2017
 
 ---
-## Publications
+<div id="publications"><h2>Publications</h2></div>
+
 ---
 - N. Marquand, S. Tandon, "Specialized Terrestrial Rotorcraft Explorer". AIAA SciTech 2020 Forum, Orlando, FL ,USA. January 2020.
 - S. Tandon, "Demonstration of Self Organzied Cubesats". iCubesat Workshop, Paris, France. May 2018. [link](https://icubesat.org/papers/2018-2/2018-b-3-2-doso-demonstration-of-self-organized-smallsats/)
 
 ---
-## Courses
+<div id="courses"><h2>Courses</h2></div>
+
 ---
 #### Graduate Courses
 ---

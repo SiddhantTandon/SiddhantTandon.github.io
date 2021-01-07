@@ -27,7 +27,7 @@ The extended kalman filter (EKF) is famous for its use in non-linear system. Bel
 </a></p>
 
 ### Pursuit-Evasion Games
-One of the applications of guidance and navigation can be found in pursuit-evasion. Using different guidance laws like direct pursuit, proportional pursuit, and constant bearing pursuit I was able to study the various ways in which a vehicle could reach its target. Below is one example of proportional guidance on the same. Here P is the pursuer and E is the evader. The plot shows the interaction between pursuer and evader with various proportional guidance laws. 
+One of the applications of guidance and navigation can be found in pursuit-evasion. Using different guidance laws like direct pursuit, proportional pursuit, and constant bearing pursuit I was able to study the various ways in which a vehicle could reach its target. Below is one example of proportional guidance on the same. Here P is the pursuer and E is the evader. The plot shows the interaction between pursuer and evader with various proportional guidance laws.
 
 <p><a href="images/pp.png">
   <figure>
