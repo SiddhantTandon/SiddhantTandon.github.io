@@ -23,7 +23,7 @@ And more Glaciers!
 </a></p>
 
 ### Some Resources I like
-1. [How to talk](https://www.youtube.com/watch?v=Unzc731iCUY)
+1. [How to talk](https://www.youtube.com/watch?v=Unzc731iCUY) (viewed at Vasileios Tzoumas' website)
 2. TED Talks
    - [Meet the Dazzling Flying Machines of the Future](https://www.youtube.com/watch?v=RCXGpEmFbOw)
    - [Your Body Language May Shape Who You Are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
