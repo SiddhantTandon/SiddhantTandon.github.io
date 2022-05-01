@@ -1,6 +1,8 @@
 ## About Me
 
-I am a second year M.S.E candidate in Aerospace Engineering at the University of Michigan. I graduated from Purdue University with a Bachelor's in Aeronautical and Astronautical Engineering and a Minor in 'Earth, Atmospheric and Planetary Sciences' in 2019.
+I am a Simulation Scenario Engineer at Motional AD inc., an autonomous automotive company which is aiming to put safe driverless vehicles on public roads.
+
+Previously I was pursuing M.S.E candidacy in Aerospace Engineering at the University of Michigan which I completed successfully in 2021. I graduated from Purdue University with a Bachelor's in Aeronautical and Astronautical Engineering and a Minor in 'Earth, Atmospheric and Planetary Sciences' in 2019.
 
 My hometown is New Delhi, the capital city of India. I have few hobbies like reading books on topics under science, technology, self-help, neuroscience, psychology and business. Others include watching Esports (mostly [League of Legends](https://lolesports.com/)), exercising (I follow [AthleanX](https://www.youtube.com/user/JDCav24), [10 min TABATA](https://www.youtube.com/watch?v=L1kS5I99dlM), etc.) and sketching. I have also traveled to many countries and think of myself as a global citizen.
 
